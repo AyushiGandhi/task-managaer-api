@@ -15,5 +15,4 @@ app.listen(port, () => {
 });
 
 
-//email api key = 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
 
